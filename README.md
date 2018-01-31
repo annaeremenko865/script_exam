@@ -1,1 +1,1 @@
-# script_exam
+# JS code for amination
