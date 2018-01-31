@@ -1,1 +1,1 @@
-# JS code for amination
+# JS code for examination
